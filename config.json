@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingurocess",
+        "uuid": 2480776,
+        "checksum": "0cw67"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
